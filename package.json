@@ -18,5 +18,16 @@
     "gatsby": "^4.1.3",
     "react": "^17.0.1",
     "react-dom": "^17.0.1"
-  }
+  },
+  "main": "gatsby-config.js",
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/chelmo/my-first-gatsby-site.git"
+  },
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/chelmo/my-first-gatsby-site/issues"
+  },
+  "homepage": "https://github.com/chelmo/my-first-gatsby-site#readme"
 }
