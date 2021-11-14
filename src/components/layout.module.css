@@ -11,8 +11,11 @@
     display: flex;
     list-style: none;
     padding-left: 0;
-    margin-right: 50px;
+    
 }
 .nav-link-item {
     color: black;
+}
+li:nth-child(2) {
+    padding-left: 2.4rem;
 }
