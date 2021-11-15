@@ -4,10 +4,10 @@ module.exports = {
     title: "My First Gatsby Site",
   },
   plugins: [
-          "gatsby-plugin-image",
-          "gatsby-plugin-sharp",
-          "gatsby-source-filesystem",
-          "gatsby-transformer-sharp",
+          'gatsby-plugin-image',
+          'gatsby-plugin-sharp',
+          'gatsby-source-filesystem',
+          'gatsby-transformer-sharp',
 
           {
             resolve: `gatsby-source-filesystem`,
