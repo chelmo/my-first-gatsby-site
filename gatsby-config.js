@@ -1,6 +1,6 @@
 module.exports = {
   siteMetadata: {
-    siteUrl: "https://www.yourdomain.tld",
+    siteUrl: "https://myfirstgatsbysitemain83314.gatsbyjs.io/",
     title: "My First Gatsby Site",
   },
   plugins: [
@@ -14,7 +14,7 @@ module.exports = {
             options: {
               name: `pages`,
               path: `${__dirname}/src/pages/`,
-            },
+            }
           },
         
     ],
