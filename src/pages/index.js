@@ -9,7 +9,7 @@ const IndexPage = () => {
        <p>Say hello to Mr.B!</p>
        <StaticImage
        alt="My cat Mr.B, he's a domestic shorthair with a black and white coat and yellow eyes"
-       src="../images/PXL_20210317_060017888.jpg"
+       src="../images/PXL_20210317_060017888.webp"
        />
     </Layout>
   )
