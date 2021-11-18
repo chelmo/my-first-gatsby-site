@@ -1,6 +1,6 @@
 module.exports = {
   siteMetadata: {
-    siteUrl: "https://myfirstgatsbysitemain83314.gatsbyjs.io/",
+    siteUrl: "https://optimistic-lewin-a8392e.netlify.app/",
     title: "My First Gatsby Site",
   },
   plugins: [
