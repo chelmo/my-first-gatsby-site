@@ -13,7 +13,6 @@ const BlogPage = ({ data }) => {
                 </Link>
                 </h2>
               <p>Posted: {node.frontmatter.date}</p>
-              <p>Testing new Netlify hosting.</p>
             </article>
           ))
         }
