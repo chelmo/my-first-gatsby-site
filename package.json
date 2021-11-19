@@ -35,5 +35,8 @@
   "bugs": {
     "url": "https://github.com/chelmo/my-first-gatsby-site/issues"
   },
-  "homepage": "https://github.com/chelmo/my-first-gatsby-site#readme"
+  "homepage": "https://github.com/chelmo/my-first-gatsby-site#readme",
+  "devDependencies": {
+    "netlify-cli": "^7.0.0"
+  }
 }
